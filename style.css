@@ -1,0 +1,105 @@
+#top{
+    height: 50px;
+    width: 100%;
+    background-color: #CFFFDC;
+    text-align: center;
+}
+.logo{
+    background-color: #161853;
+    width: 100%;
+    height: 150px;
+}
+.honey{
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: cursive;
+    position: absolute;
+}
+#honey-img{
+    border: 1px solid black;
+    color: #D6D46D;
+    border-radius: 15px;
+}
+.turmeric{
+    margin-top: -242px;
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    left: 400px;
+}
+#turmeric-img{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.chilly-powder{
+    margin-top: -242px;
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    left: 400px;
+}
+#chilly-img{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.cow-milk{
+    margin-top: -242px;
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    left: 400px;
+}
+#cmilk-img{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.buffalo-milk{
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    top: 260px;
+    right: 1200px;
+}
+#bmilk-img{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.cow-ghee{
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    margin-top: -242px;
+    left: 400px;
+}
+#cghee-img{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.buffalo-ghee{
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    margin-top: -242px;
+    left: 400px;
+}
+#bghee-img{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+p{
+    margin: 0px;
+}
