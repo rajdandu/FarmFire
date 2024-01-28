@@ -4,14 +4,16 @@
     background-color: #D6D46D;
     padding: 1px;
     text-align: center;
+    position: relative
 }
 .honey{
     margin-top: 20px;
-    margin-left: -80%;
     color: black;
     text-align: center;
     font-size: larger;
     font-family: cursive;
+    position: absolute;
+    
 }
 #honey-img{
     border: 1px solid black;
