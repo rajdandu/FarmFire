@@ -1,0 +1,40 @@
+#top{
+    height: 50px;
+    width: 100%;
+    background-color: #E14D2A;
+    text-align: center;
+}
+.logo{
+    background-color: #FD841F;
+    width: 100%;
+    height: 150px;
+}
+.honey{
+    margin-top: 20px;
+    color: black;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: cursive;
+    position: absolute;
+}
+#honey-img{
+    border: 1px solid black;
+    color: #D6D46D;
+    border-radius: 15px;
+}
+.turmeric{
+    margin-top: -242px;
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: cursive;
+    position: absolute;
+    left: 350px;
+}
+#turmeric-img{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+p{
+    margin: 0px;
+}
